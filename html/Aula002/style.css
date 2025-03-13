@@ -1,0 +1,28 @@
+/* Seletores CSS*/
+
+table { 
+width: 100%;
+border: 3px solid;
+background-color:rgb(230, 229, 229));
+}
+
+thead{
+
+    background-color:rgb(178, 203, 224);
+}
+
+td{
+
+    text-align: center;
+
+
+}
+
+h1{
+    text-align: center;
+    font-weight:900;
+    border-style:inset;
+    border-color:rgb(178, 203, 224);
+    background-color:rgb(243, 238, 238);
+}
+
