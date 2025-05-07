@@ -1,0 +1,82 @@
+
+.navbar {
+    background-color: #343a40; 
+  }
+  
+  .navbar-brand {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .navbar-brand:hover {
+    color: #ffc107; 
+  }
+  
+  .navbar .form-control {
+    margin-right: 0.5rem;
+  }
+  
+
+  h2 {
+    margin-top: 2rem;
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: #6c757d;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Carrossel */
+  .carousel {
+    margin: 2rem auto;
+    max-width: 800px;
+  }
+  
+  .carousel-inner img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .carousel-indicators li {
+    background-color: #343a40;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+  }
+  
+  
+  .btn {
+    background-color: #28a745;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    margin: 2rem auto;
+    display: block;
+    width: fit-content;
+  }
+  
+  .btn:hover {
+    background-color: #218838;
+    color: #ffffff;
+  }
+  
+  
+  .d-flex.p-2 {
+    background-color: #f8f9fa;
+    font-size: 1.2rem;
+    font-weight: 500;
+    justify-content: center;
+    padding: 1rem;
+    border-top: 2px solid #dee2e6;
+    margin-top: 2rem;
+  }
+  
